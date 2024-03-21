@@ -6,4 +6,4 @@ Ask your questions via email below:
 در این صفحه تا حدممکن تلاش میکنم که به سوالات شما در زمینه پایتون، هوش مصنوعی و داده کاوی پاسخ دهم. 
 سوالات خود را از طریق ایمیل زیر بپرسید:
 
-[x][questionsajjad@gmail.com](questionsajjad@gmail.com)
+- [x]  [questionsajjad@gmail.com](questionsajjad@gmail.com)
